@@ -10,12 +10,12 @@ Student Information
 
 
 
-## 📘 Lab Title
+## Lab Title
 **Lab 1 Search Algorithms (AI Course)**
 
 ---
 
-## 🧠 Lab Structure
+## Lab Structure
 
 ### Part A Uninformed Search
 - Breadth-First Search (BFS)
@@ -32,5 +32,5 @@ Student Information
 ---
 
 
-## 🌐 GitHub Repository
+## GitHub Repository
 https://github.com/AbdourahmaneFatmaAli/Fatma_Ali_lab1-
