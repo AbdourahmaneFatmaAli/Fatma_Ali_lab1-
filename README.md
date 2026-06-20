@@ -1,6 +1,6 @@
 
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Welcome+to+my+AI+Lab+Project;Lab+1+-+Search+Algorithms;Uninformed+%26+Informed+Search+Implementation)
+![welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Welcome;Lab+1+-+Search+Algorithms)
 
 
 Student Information
